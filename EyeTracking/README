@@ -1,0 +1,11 @@
+To be able to run our code, you will first have to download and set up openCV version 2.4.6(latest version) for
+for VS 2010/2012 on windows 7/8 on a 32bit VS version. The installation guide for openCV that worked for our
+team is on:
+
+http://www.slideshare.net/helloansuman/how-to-nstall-opencv-246-using-visual-studio-2010-2012-in-windows-7-8-for-32-bit-machine-only
+
+Once you have set everything up and are ready to build the code, 
+copy ../opencv/data/haarcascades/haarcascade_frontalface_alt over to main.cpp's directory.
+
+If you have any issues with regard to setting up your environment for openCV or getting EyeTracker.cpp 
+to run with its dependencies, you can contact the SET team at slouie@umich.edu.
